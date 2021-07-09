@@ -1,1 +1,1 @@
-# cAQ_ana
+# RNA-Seq analysis for cAQ
